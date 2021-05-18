@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Upadhyay
 - 👀 I’m interested in Front end developing
-- 🌱 I’m currently learning Javascript & Bootstrap
+- 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking for a job
 - 📫 You can reach me on my email- ashishjk20@gmail.com or contact number-9781032245
 
