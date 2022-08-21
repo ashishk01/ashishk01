@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Upadhyay
-- 👀 I’m interested in Front end developing and Software Development
-- 🌱 I’m currently learning Machine learning and web scrapping
-- 💞️ I’m looking for a job
+- 👀 I’m interested in Front end developing and Cyber Security
+- 🌱 I’m currently learning Penetration Testing and web scrapping
+- 💞️ I’m looking for a internships
 - 📫 You can reach me on my email- ashishjk20@gmail.com or contact number-9781032245
 
 <!---
